@@ -1,6 +1,6 @@
 
 AI-ROBOTIC ARM
-<img width="750" height="500" alt="ROBOTICARMPIC" src="https://github.com/user-attachments/assets/5ccf0180-1ed5-43ca-88a5-aafb32d2e6ca" />
+<img width="750" height="300" alt="ROBOTICARMPIC" src="https://github.com/user-attachments/assets/5ccf0180-1ed5-43ca-88a5-aafb32d2e6ca" />
 
 So this is a robotic arm controlled by AI and it works by calling a api (in this case gemini) and you can chat with it and it will reply plus do some gestures. You
 can make algorithms hence the ai has memory and also ask it to do stuff (planning  to add a camera soon!!!). 
